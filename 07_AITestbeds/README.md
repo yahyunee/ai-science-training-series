@@ -9,8 +9,7 @@ We will cover an overview of the AI accelerators landscape with a focus on Samba
 
 ## Slides
 
-* [Intro to AI Series: AI Accelerators]() 
-    > Slides will be uploaded shortly after the talk.
+* [Intro to AI Series: AI Accelerators](./AI_Accelerators.pdf) 
 
 ## Hands-On Sessions
 
@@ -27,6 +26,22 @@ To gain access to AI Testbeds at ALCF after current allocation expires apply for
 
 The ALCF Director’s Discretionary program provides “start up” awards to researchers working to achieve computational readiness for for a major allocation award.
 
+## Homework 
+
+You need to submit either Theory Homework or Hands-on Homework. 
+
+#####  Theory Homework
+* What are the key architectural features that make these systems suitable for AI workloads?
+* Identify the primary differences between these AI accelerator systems in terms of their architecture and programming models.
+* Based on hands-on sessions, describe a typical workflow for refactoring an AI model to run on one of ALCF's AI testbeds (e.g., SambaNova or Cerebras). What tools or software stacks are typically used in this process?
+* Give an example of a project that would benefit from AI accelerators and why?
+
+##### Hands-on Homework
+
+* [Cerebras Homework](./Cerebras/README.md#homework)
+* [Sambanova Homework](./Sambanova/README.md#homework)
+* [Graphcore Homework](./Graphcore/README.md#homework)
+* [Groq Homework](./Groq/README.md#homework)
 
 ## Useful Links 
 
