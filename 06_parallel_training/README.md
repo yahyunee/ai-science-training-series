@@ -115,11 +115,11 @@ Where _proof_ can be any of:
 - path to a logfile containing the output from a run on the ALCF filesystems:
 - A screenshot of :
 -   the text printed out from the run:
-- ![Alt text](https://github.com/yahyunee/ai-science-training-series/tree/main/06_parallel_training/images/1.png)
-- ![Alt text](https://github.com/yahyunee/ai-science-training-series/tree/main/06_parallel_training/images/2.png)
-- ![Alt text](https://github.com/yahyunee/ai-science-training-series/tree/main/06_parallel_training/images/3.png)
-- ![Alt text](https://github.com/yahyunee/ai-science-training-series/tree/main/06_parallel_training/images/4.png)
-- ![Alt text](https://github.com/yahyunee/ai-science-training-series/tree/main/06_parallel_training/images/5.png)
+- ![Alt text](https://github.com/yahyunee/ai-science-training-series/tree/main/06_parallel_training/images/1.jpeg)
+- ![Alt text](https://github.com/yahyunee/ai-science-training-series/tree/main/06_parallel_training/images/2.jpeg)
+- ![Alt text](https://github.com/yahyunee/ai-science-training-series/tree/main/06_parallel_training/images/3.jpeg)
+- ![Alt text](https://github.com/yahyunee/ai-science-training-series/tree/main/06_parallel_training/images/4.jpeg)
+- ![Alt text](https://github.com/yahyunee/ai-science-training-series/tree/main/06_parallel_training/images/5.jpeg)
 
 url to W&B run : https://wandb.ai/yahyunee-seoul-national-university/WordPlay/runs/u9n19xz2
 
