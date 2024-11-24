@@ -111,3 +111,21 @@ Where _proof_ can be any of:
 
 
 <!--[^gpu]: If you do not have access to the ALCF systems, you can install [OpenMPI](https://docs.open-mpi.org/en/v5.0.x/) and run across multiple CPUs as well-->
+
+- path to a logfile containing the output from a run on the ALCF filesystems:
+- A screenshot of :
+-   the text printed out from the run:
+- [Alt text](images/1.jpeg)
+- [Alt text](images/2.jpeg)
+- [Alt text](images/3.jpeg)
+- [Alt text](images/4.jpeg)  
+
+url to W&B run : https://wandb.ai/yahyunee-seoul-national-university/WordPlay/runs/u9n19xz2
+
+
+
+
+
+
+
+
