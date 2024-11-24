@@ -115,11 +115,11 @@ Where _proof_ can be any of:
 - path to a logfile containing the output from a run on the ALCF filesystems:
 - A screenshot of :
 -   the text printed out from the run:
-- ![Alt text](https://github.com/yahyunee/ai-science-training-series/tree/main/06_parallel_training/images/1.jpeg)
-- ![Alt text](https://github.com/yahyunee/ai-science-training-series/tree/main/06_parallel_training/images/2.jpeg)
-- ![Alt text](https://github.com/yahyunee/ai-science-training-series/tree/main/06_parallel_training/images/3.jpeg)
-- ![Alt text](https://github.com/yahyunee/ai-science-training-series/tree/main/06_parallel_training/images/4.jpeg)
-- ![Alt text](https://github.com/yahyunee/ai-science-training-series/tree/main/06_parallel_training/images/5.jpeg)
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/b9864c4f-a971-4909-989b-75025d9bcddc">
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/7527da77-e506-45a7-bacf-be7a10f815c0">
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/b0f0e933-528a-4371-955b-a3a4ca2659f0">
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/4345dc2f-92cd-4dd2-9865-75f296ceaa57">
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/a9877e2d-31de-422a-82be-93315f9aa4ed">
 
 url to W&B run : https://wandb.ai/yahyunee-seoul-national-university/WordPlay/runs/u9n19xz2
 
