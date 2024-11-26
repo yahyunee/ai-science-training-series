@@ -36,6 +36,9 @@ You need to submit either Theory Homework or Hands-on Homework.
 * Based on hands-on sessions, describe a typical workflow for refactoring an AI model to run on one of ALCF's AI testbeds (e.g., SambaNova or Cerebras). What tools or software stacks are typically used in this process?
 * Give an example of a project that would benefit from AI accelerators and why?
 
+
+
+
 ##### Hands-on Homework
 
 * [Cerebras Homework](./Cerebras/README.md#homework)
